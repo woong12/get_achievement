@@ -1,3 +1,8 @@
 # get_achievement
 
-test
+Pair Extraordinaire O
+Quickdraw O
+Galaxy Brain O
+YOLO O
+Pull Shark O
+StarStruck X
