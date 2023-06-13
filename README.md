@@ -10,4 +10,4 @@ YOLO O
 </br>
 Pull Shark O
 </br>
-StarStruck X
+StarStruck O
